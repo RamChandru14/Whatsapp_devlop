@@ -13,3 +13,5 @@ AUTHOR: Ramachandiran
 5.Hiding the last seen
 
 6.Add Status option
+
+7.Adding the audio status feature

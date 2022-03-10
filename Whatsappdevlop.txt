@@ -14,6 +14,3 @@ AUTHOR: Ramachandiran
 
 6.Add Status option
 
-7.Adding the audio call feature
-
-8.adding the video call feature

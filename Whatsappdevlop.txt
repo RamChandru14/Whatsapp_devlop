@@ -12,3 +12,4 @@ AUTHOR: Ramachandiran
 
 5.Hiding the last seen
 
+6.Add Status option
